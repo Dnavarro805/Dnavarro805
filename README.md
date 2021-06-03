@@ -18,9 +18,11 @@ with both teammates and clients.
 
 ---
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Dnavarro805&show_icons=true&theme=dark)
+## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnavarro805&layout=compact)](https://github.com/Dnavarro805/github-readme-stats)
+
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Dnavarro805&show_icons=true&theme=dark)
 
 ---
 

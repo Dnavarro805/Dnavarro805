@@ -29,7 +29,7 @@ with both teammates and clients.
 
 👀 View my portfolio here: [Portfolio](http://www.meetdanielnavarro.com/)
 
-📝 Check my resume out here: [Daniel's Resume](https://docs.google.com/document/d/1m4Hr4V_gmoR1cq3SWq1ZBF5Y63agk6DEzZM_LfPavZM/edit?usp=sharing)
+📝 Check my resume out here: [Daniel's Resume](https://docs.google.com/document/d/1hYirgjYhgAc6nSx73LNQlHGVYwpFkRsYp1gGIk8tJ_Q/edit?usp=sharing)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
 

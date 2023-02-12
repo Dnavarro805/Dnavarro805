@@ -24,7 +24,7 @@ teams, take on more challenging problems, and aid in maximizing productivity whi
 ---
 
 
-👀 View my portfolio here: [Portfolio](http://www.meetdanielnavarro.com/)
+<!-- 👀 View my portfolio here: [Portfolio](http://www.meetdanielnavarro.com/) -->
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
 

@@ -28,4 +28,4 @@ teams, take on more challenging problems, and aid in maximizing productivity whi
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
 
-📫 Reach me via email: [daniel.navarro.16251@gmail.com](mailto:daniel.navarro.16251@gmail.com)
+📫 Reach me via email: [danielnavarrodesign@gmail.com](mailto:danielnavarrodesign@gmail.com)

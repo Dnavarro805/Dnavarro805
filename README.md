@@ -22,7 +22,7 @@ Web Engineer with a proven ability to collaborate effectively on teams of varyin
 ---
 
 
-👀 View my portfolio: [Portfolio](http://www.danielnavarrodesign.com/)
+👀 View my portfolio: [Portfolio](https://www.danielnavarro.design/)
 
 💬 Connect with me: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
 

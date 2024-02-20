@@ -24,6 +24,6 @@ Web Engineer with a proven ability to collaborate effectively on teams of varyin
 
 <!-- 👀 View my portfolio here: [Portfolio](http://www.meetdanielnavarro.com/) -->
 
-💬 Connect with me here: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
+💬 Connect with me: [Linkedin](https://www.linkedin.com/in/meet-daniel-navarro)
 
 📫 Reach me via email: [danielnavarrodesign@gmail.com](mailto:danielnavarrodesign@gmail.com)
